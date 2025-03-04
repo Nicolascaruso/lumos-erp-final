@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
@@ -73,3 +74,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> 2b45339 (Primeiro commit - adicionando código do Arduino)
 >>>>>>> 6259a3d (Primeiro commit - adicionando código do Arduino)
+=======
+>>>>>>> b54b0e3 (Primeiro commit - adicionando código do Arduino)
